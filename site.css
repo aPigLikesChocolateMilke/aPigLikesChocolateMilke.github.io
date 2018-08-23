@@ -1,0 +1,65 @@
+
+body {
+  font-family:     Verdana, Geneva, Arial, sans-serif;
+  font-size:       large;
+  line-height:     1.6em;
+  background-color: #f6f6f6;
+  text-align: center;
+}
+
+h1 {
+  font-family:     "Emblema One", sans-serif;
+  font-size:       200%;
+}
+h2 {
+  font-size:       130%;
+  font-weight:     normal;
+  color:           black;
+  border-top:   thin dotted;
+  line-hight:      1.6em;
+}
+
+blockquote {
+  font-style:      italic;
+
+}
+
+a:link {
+  color: #FFFFFF;
+}
+a:hover {
+  color: #0084fe;/*蓝色*/
+}
+a:visited {
+  color: black;
+}
+
+
+#jieshao {
+    background: #ffffff;
+    margin: 0 370px 0 370px;
+
+}
+#footer {
+  font-size: 50%;
+  line-height: normal;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+
+
+
+/*应用于myinforation*/
+.heiti{
+  weight: bold;
+}
+
+#introduce {
+  border-color:  black;
+  border-width:  1px;
+  border-style:  inset;
+  border-radius: 1em;
+  background: #efe5d0;
+  padding-left: 20px;
+}
