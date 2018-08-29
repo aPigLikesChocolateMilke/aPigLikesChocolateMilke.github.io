@@ -1,3 +1,17 @@
+@media  screen and (max-device-width: 480px) {
+
+        title {
+            font-size: 140%;
+        }
+        body {
+          font-family:     sans-serif;
+          font-size:       large;
+          line-height:     1.6em;
+          background-color: #f6f6f6;
+          text-align: center;
+          width: auto;
+          height: auto;
+        }
 
 body {
   font-family:     Verdana, Geneva, Arial, sans-serif;
