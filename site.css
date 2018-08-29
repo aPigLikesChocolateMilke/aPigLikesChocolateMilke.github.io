@@ -12,7 +12,7 @@
           width: auto;
           height: auto;
         }
-
+    }
 body {
   font-family:     Verdana, Geneva, Arial, sans-serif;
   font-size:       large;
@@ -51,7 +51,7 @@ a:visited {
 
 #jieshao {
     background: #ffffff;
-    margin: 0 370px 0 370px;
+    margin: 0 auto 0 auto;
 
 }
 #footer {
@@ -60,6 +60,5 @@ a:visited {
   margin-top: 0px;
   padding-top: 0px;
 }
-
 
 
